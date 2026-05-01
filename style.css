@@ -25,6 +25,8 @@ font-size:30px;
     
 body {
     cursor: url('images/cursor.cur'), default;
+    font-family:monospace;
+
     
 }
     
@@ -33,6 +35,11 @@ body {
     
 }
 
+.content {
+    padding: 5%;
+    padding-top: 2.5%;
+
+}
 
 /* youtube */
 
