@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* portrait mode warning */
+/* portrait mode warning
 #warning-message { display: none; 
 background-color: black;
 color:white;
@@ -23,6 +23,7 @@ font-size:30px;
 
     }
     
+    */
 body {
     cursor: url('images/cursor.cur'), default;
     font-family:monospace;
@@ -36,8 +37,9 @@ body {
 }
 
 .content {
-    padding: 5%;
+    padding: 20%;
     padding-top: 2.5%;
+    width: 60%;
 
 }
 
