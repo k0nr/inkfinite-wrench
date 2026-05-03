@@ -10,6 +10,10 @@ body {
 
     
 }
+
+h1 {
+    font-size: clamp(1rem, 5vw, 3rem);
+}
     
 p {
     font-size: 16px;
