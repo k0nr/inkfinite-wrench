@@ -36,6 +36,13 @@ p {
     max-width:600px;
     margin:auto;
 
+.photo-of-pen {
+    width: 60%;
+    height: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 20%;
+}
 
 }
 
